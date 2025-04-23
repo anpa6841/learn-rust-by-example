@@ -1,6 +1,6 @@
 # Rust Concepts Explained
 
-**Note:** This Rust guide covers main topics from the original guide which can be found here:- https://doc.rust-lang.org/rust-by-example/. However, it aims to be more illustrative, using simple examples to make learning Rust more intuitive.
+**Note:** This Rust guide covers main topics from the official guide which can be found here:- https://doc.rust-lang.org/rust-by-example/. However, it aims to be more illustrative, using simple examples to make learning Rust more intuitive.
 
 # Table of Contents
 
